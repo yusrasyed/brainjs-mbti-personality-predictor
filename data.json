@@ -1,0 +1,146 @@
+[
+  {
+  "text": "reserved, visionary, emotional, messy",
+  "category": {
+    "extroversion": "I",
+    "information": "N",
+    "decision": "F",
+    "structure": "P"
+    }
+  },
+  {
+   "text": "reserved, visionary, emotional, organized",
+   "category": {
+     "extroversion": "I",
+     "information": "N",
+     "decision": "F",
+     "structure": "J"
+     }
+  },
+  {
+  "text": "reserved, visionary, logical, messy",
+  "category": {
+    "extroversion": "I",
+    "information": "N",
+    "decision": "T",
+    "structure": "P"
+    }
+  },
+  {
+   "text": "reserved, visionary, logical, organized",
+   "category": {
+     "extroversion": "I",
+     "information": "N",
+     "decision": "T",
+     "structure": "J"
+     }
+  },
+  {
+  "text": "outspoken, visionary, emotional, messy",
+  "category": {
+    "extroversion": "E",
+    "information": "N",
+    "decision": "F",
+    "structure": "P"
+    }
+  },
+  {
+   "text": "outspoken, visionary, emotional, organized",
+   "category": {
+     "extroversion": "E",
+     "information": "N",
+     "decision": "F",
+     "structure": "J"
+     }
+  },
+  {
+    "text": "outspoken, visionary, logical, messy",
+    "category": {
+      "extroversion": "E",
+      "information": "N",
+      "decision": "T",
+      "structure": "P"
+      }
+   },
+   {
+     "text": "outspoken, visionary, logical, organized",
+     "category": {
+       "extroversion": "E",
+       "information": "N",
+       "decision": "T",
+       "structure": "J"
+       }
+    },
+    {
+      "text": "reserved, practical, emotional, messy",
+      "category": {
+        "extroversion": "I",
+        "information": "S",
+        "decision": "F",
+        "structure": "P"
+        }
+     },
+  {
+  "text": "reserved, practical, emotional, organized",
+  "category": {
+   "extroversion": "I",
+   "information": "S",
+   "decision": "F",
+   "structure": "J"
+   }
+  },
+  {
+  "text": "reserved, practical, logical, messy",
+  "category": {
+    "extroversion": "I",
+    "information": "S",
+    "decision": "T",
+    "structure": "P"
+    }
+  },
+  {
+   "text": "reserved, practical, logical, organized",
+   "category": {
+     "extroversion": "I",
+     "information": "S",
+     "decision": "T",
+     "structure": "J"
+     }
+  },
+  {
+  "text": "outspoken, practical, emotional, messy",
+  "category": {
+    "extroversion": "E",
+    "information": "S",
+    "decision": "F",
+    "structure": "P"
+    }
+  },
+  {
+   "text": "outspoken, practical, emotional, organized",
+   "category": {
+     "extroversion": "E",
+     "information": "S",
+     "decision": "F",
+     "structure": "J"
+     }
+  },
+  {
+    "text": "outspoken, practical, logical, messy",
+    "category": {
+      "extroversion": "E",
+      "information": "S",
+      "decision": "T",
+      "structure": "P"
+      }
+   },
+   {
+     "text": "outspoken, practical, logical, organized",
+     "category": {
+       "extroversion": "E",
+       "information": "S",
+       "decision": "T",
+       "structure": "J"
+       }
+    }
+]
