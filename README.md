@@ -1,6 +1,8 @@
-# brainjs-neural-net-2
+# brainjs-mbti-personality-predictor
 
 
-Recurrent LSTM predictor that categorizes sentences as being related to 'hardware' or 'software'.
+Recurrent LSTM algorithm that predicts Myers Briggs personality based on personal characteristics
 
-Using tutorial: https://www.youtube.com/watch?v=RVMHhtTqUxc
+Open with Node.js
+
+Credits: https://www.youtube.com/watch?v=RVMHhtTqUxc
