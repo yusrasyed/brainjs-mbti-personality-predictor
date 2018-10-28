@@ -1,6 +1,9 @@
 [
   {
-  "text": "reserved, visionary, emotional, messy",
+  "extroversion": "reserved",
+  "information": "visionary",
+  "decision": "emotional",
+  "structure": "messy",
   "category": {
     "extroversion": "I",
     "information": "N",
@@ -9,7 +12,10 @@
     }
   },
   {
-   "text": "reserved, visionary, emotional, organized",
+    "extroversion": "reserved",
+    "information": "visionary",
+    "decision": "emotional",
+    "structure": "organized",
    "category": {
      "extroversion": "I",
      "information": "N",
@@ -18,7 +24,10 @@
      }
   },
   {
-  "text": "reserved, visionary, logical, messy",
+    "extroversion": "reserved",
+    "information": "visionary",
+    "decision": "logical",
+    "structure": "messy",
   "category": {
     "extroversion": "I",
     "information": "N",
@@ -27,7 +36,10 @@
     }
   },
   {
-   "text": "reserved, visionary, logical, organized",
+    "extroversion": "reserved",
+    "information": "visionary",
+    "decision": "logical",
+    "structure": "organized",
    "category": {
      "extroversion": "I",
      "information": "N",
@@ -36,7 +48,10 @@
      }
   },
   {
-  "text": "outspoken, visionary, emotional, messy",
+    "extroversion": "outspoken",
+    "information": "visionary",
+    "decision": "emotional",
+    "structure": "messy",
   "category": {
     "extroversion": "E",
     "information": "N",
@@ -45,7 +60,10 @@
     }
   },
   {
-   "text": "outspoken, visionary, emotional, organized",
+    "extroversion": "outspoken",
+    "information": "visionary",
+    "decision": "emotional",
+    "structure": "organized",
    "category": {
      "extroversion": "E",
      "information": "N",
@@ -54,7 +72,10 @@
      }
   },
   {
-    "text": "outspoken, visionary, logical, messy",
+    "extroversion": "outspoken",
+    "information": "visionary",
+    "decision": "logical",
+    "structure": "messy",
     "category": {
       "extroversion": "E",
       "information": "N",
@@ -63,7 +84,10 @@
       }
    },
    {
-     "text": "outspoken, visionary, logical, organized",
+     "extroversion": "outspoken",
+     "information": "visionary",
+     "decision": "logical",
+     "structure": "organized",
      "category": {
        "extroversion": "E",
        "information": "N",
@@ -72,7 +96,10 @@
        }
     },
     {
-      "text": "reserved, practical, emotional, messy",
+      "extroversion": "reserved",
+      "information": "practical",
+      "decision": "emotional",
+      "structure": "messy",
       "category": {
         "extroversion": "I",
         "information": "S",
@@ -81,7 +108,10 @@
         }
      },
   {
-  "text": "reserved, practical, emotional, organized",
+    "extroversion": "reserved",
+    "information": "practical",
+    "decision": "emotional",
+    "structure": "organized",
   "category": {
    "extroversion": "I",
    "information": "S",
@@ -90,7 +120,10 @@
    }
   },
   {
-  "text": "reserved, practical, logical, messy",
+    "extroversion": "reserved",
+    "information": "practical",
+    "decision": "logical",
+    "structure": "messy",
   "category": {
     "extroversion": "I",
     "information": "S",
@@ -99,7 +132,10 @@
     }
   },
   {
-   "text": "reserved, practical, logical, organized",
+    "extroversion": "reserved",
+    "information": "practical",
+    "decision": "logical",
+    "structure": "organized",
    "category": {
      "extroversion": "I",
      "information": "S",
@@ -108,7 +144,10 @@
      }
   },
   {
-  "text": "outspoken, practical, emotional, messy",
+    "extroversion": "outspoken",
+    "information": "practical",
+    "decision": "emotional",
+    "structure": "messy",
   "category": {
     "extroversion": "E",
     "information": "S",
@@ -117,7 +156,10 @@
     }
   },
   {
-   "text": "outspoken, practical, emotional, organized",
+    "extroversion": "outspoken",
+    "information": "practical",
+    "decision": "emotional",
+    "structure": "organized",
    "category": {
      "extroversion": "E",
      "information": "S",
@@ -126,7 +168,10 @@
      }
   },
   {
-    "text": "outspoken, practical, logical, messy",
+    "extroversion": "outspoken",
+    "information": "practical",
+    "decision": "logical",
+    "structure": "messy",
     "category": {
       "extroversion": "E",
       "information": "S",
@@ -135,7 +180,10 @@
       }
    },
    {
-     "text": "outspoken, practical, logical, organized",
+     "extroversion": "outspoken",
+     "information": "practical",
+     "decision": "logical",
+     "structure": "organized",
      "category": {
        "extroversion": "E",
        "information": "S",

@@ -4,7 +4,11 @@ const data = require('./data.json');
 const network = new brain.recurrent.LSTM();
 
 const trainingData = data.map(item => ({
-    input: item.text,
+    input: [item.extroversion,
+            item.information,
+            item.decision,
+            item.structure
+          ],
     output: [item.category.extroversion,
              item.category.information,
              item.category.decision,
@@ -13,9 +17,9 @@ const trainingData = data.map(item => ({
 
 
 network.train(trainingData, {
-    iterations: 20000
+    iterations: 4000
 });
 
-const output = network.run('reserved, visionary, emotional, messy');
+const output = network.run(['reserved', 'practical', 'emotional', 'messy']);
 
 console.log(`Category: ${output}`);
